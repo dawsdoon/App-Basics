@@ -15,7 +15,7 @@ export default function CityScreen({ city, url }) {
       facts: [
         'Calgary is the sunniest city in Canada, with 333 days of sunshine per year.',
         'The Calgary Stampede is an annual rodeo, exhibition, and festival held every July.',
-        'Calgary is home to the worst team in the NHL.',
+        'Calgary is home to the worst team in the NHL. asd',
       ],
     },
     Edmonton: {
