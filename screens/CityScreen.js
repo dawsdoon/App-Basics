@@ -25,6 +25,7 @@ export default function CityScreen({ city, url }) {
         'Edmonton is the capital city of Alberta.',
         'The West Edmonton Mall is the largest shopping mall in North America.',
         'In the wintertime, the Northern Lights can be seen over Edmonton.',
+        'Edmonton is home to the best team in the NHL.',
       ],
     },
   };
